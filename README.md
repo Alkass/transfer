@@ -5,7 +5,7 @@ Python wrapper around the [transfer.sh](https://transfer.sh) file sharing servic
 Install the tool:
 
 ```
-$ pip3 install git+https://github.com/alkass transfer
+$ pip3 install git+https://github.com/alkass/transfer
 ```
 
 Run `transfer --help` for help.
