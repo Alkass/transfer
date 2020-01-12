@@ -42,7 +42,7 @@ def name_validator(arg):
 class Defaults:
     DEFAULT_SERVICE_URL = 'https://transfer.sh'
 
-if __name__ == '__main__':
+def main():
     parser = argparse.ArgumentParser(description='transfer.sh CLI Utility')
     parser.add_argument('--upload',
                         nargs='*',
@@ -80,3 +80,6 @@ if __name__ == '__main__':
         upload(args.service, set(args.upload))
     elif args.download:
         download(args.service, set(args.download), args.name)
+
+if __name__ == '__main__':
+    main()
