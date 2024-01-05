@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Alkass/transfer](https://github.com/Alkass/transfer)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|11/26/23 <br/>Report generated|
+|4<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -69,7 +69,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[requests](https://pypi.org/requests)|N/A|01/12/20|Fadi Hanna Al-Kass |Apache-2.0|N/A|
+|[requests](https://pypi.org/project/requests)|N/A|01/12/20|Fadi Hanna Al-Kass |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
